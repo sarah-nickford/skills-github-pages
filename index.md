@@ -1,4 +1,4 @@
 ---
-title: pages tutorial!
+title: This is the website title: pages tutorial!
 ---
-testing
+Basic information about this site.
